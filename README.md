@@ -1,5 +1,14 @@
 # Natural-Language-Processing-Text-Analytics
+This project explores document relationships using Natural Language Processing (NLP) and network analysis techniques in R.
 
-- Built and analyzed a 21-document corpus across three genres using text preprocessing and document-term matrix. 
-- Applied hierarchical clustering and sentiment analysis to compare genre patterns, achieving 95.24% accuracy. 
-- Constructed bipartite network graphs using igraph to uncover relationships between documents and terms.
+### Technologies
+- R
+- igraph
+- NLP
+- Text Mining
+
+### Highlights
+- Text preprocessing and corpus analysis
+- Hierarchical clustering
+- Sentiment analysis
+- Document, token, and bipartite network visualization
